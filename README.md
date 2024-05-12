@@ -1,3 +1,5 @@
+[![Badge](https://github.com/remafka/Task-CI/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/remafka/Task-CI/actions/workflows/github-actions-demo.yml)
+
 # task2 
 ## Часть №1 Тестирование
 
